@@ -1,6 +1,6 @@
 # ProblemSolving
 
-** Nest.net 알고리즘 스터디 **
+**Nest.net 알고리즘 스터디**
 1. 신수웅(Shinsuung)
 2. 송건호(Songgeonho)
 3. 남훈(Namhun)
