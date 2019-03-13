@@ -22,3 +22,4 @@ int main()
 	cout << D[A];
 	return 0;
 }
+
